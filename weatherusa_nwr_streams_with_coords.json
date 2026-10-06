@@ -1,13 +1,5 @@
 [
   {
-    "callsign": "WXM32",
-    "info": "Listen",
-    "stream_url": "https://wxr.gwes-cdn.net/WXM32",
-    "location": "Columbus, AL",
-    "latitude": 32.460891,
-    "longitude": -84.987981
-  },
-  {
     "callsign": "KEC61",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KEC61_2.mp3",
@@ -854,5 +846,5 @@
     "location": "Charleston, WV",
     "latitude": 38.3498,
     "longitude": -81.6326
-  },
+  }
 ]
