@@ -1,11 +1,11 @@
 [
   {
-    "callsign": "KIH54",
-    "info": "Degraded",
-    "stream_url": "https://broadcastify.cdnstream1.com/30979",
-    "location": "Birmingham, AL",
-    "latitude": 33.5206,
-    "longitude": -86.8024
+    "callsign": "WXM32",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXM32",
+    "location": "Columbus, AL",
+    "latitude": 32.460891,
+    "longitude": -84.987981
   },
   {
     "callsign": "KEC61",
@@ -41,7 +41,7 @@
   },
   {
     "callsign": "KIG78",
-    "info": "Degraded",
+    "info": "Offline",
     "stream_url": "https://radio.weatherusa.net/NWR/KIG78_2.mp3",
     "location": "Coachella, CA",
     "latitude": 33.6803,
@@ -80,25 +80,9 @@
     "longitude": -121.8947
   },
   {
-    "callsign": "KEC57",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/34488",
-    "location": "Sacramento, CA",
-    "latitude": 38.5816,
-    "longitude": -121.4944
-  },
-  {
-    "callsign": "KEC76",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/45413",
-    "location": "Denver, CO",
-    "latitude": 39.7392,
-    "longitude": -104.9903
-  },
-  {
     "callsign": "KWN54",
     "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/KWN54.mp3",
+    "stream_url": "https://wxr.gwes-cdn.net/KWN54",
     "location": "Durango, CO",
     "latitude": 37.2753,
     "longitude": -107.8801
@@ -112,16 +96,8 @@
     "longitude": -72.807
   },
   {
-    "callsign": "WXK83",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/FL-FortMyers-WXK83",
-    "location": "Fort Myers, FL",
-    "latitude": 26.6406,
-    "longitude": -81.8723
-  },
-  {
     "callsign": "WZ2531",
-    "info": "Listen",
+    "info": "Offline",
     "stream_url": "https://wxr.gwes-cdn.net/WZ2531",
     "location": "Hialeah, FL (Spanish)",
     "latitude": 25.8268,
@@ -129,19 +105,11 @@
   },
   {
     "callsign": "KHB34",
-    "info": "Listen",
+    "info": "Offline",
     "stream_url": "https://wxr.gwes-cdn.net/KHB34",
     "location": "Miami, FL",
     "latitude": 25.7617,
     "longitude": -80.1918
-  },
-  {
-    "callsign": "KHB39",
-    "info": "Offline",
-    "stream_url": "https://wxr.gwes-cdn.net/KHB39",
-    "location": "Jacksonville, FL",
-    "latitude": 30.3322,
-    "longitude": -81.6557
   },
   {
     "callsign": "KIH63",
@@ -161,19 +129,11 @@
   },
   {
     "callsign": "WNG663",
-    "info": "Listen",
+    "info": "Offline",
     "stream_url": "https://wxr.gwes-cdn.net/WNG663",
     "location": "Princeton, FL",
     "latitude": 25.5384,
     "longitude": -80.3951
-  },
-  {
-    "callsign": "KPS505",
-    "info": "Listen",
-    "stream_url": "https://wxradio.org/FL-Sumterville-KPS505",
-    "location": "Sumterville, FL",
-    "latitude": 28.7497,
-    "longitude": -82.0629
   },
   {
     "callsign": "KIH24",
@@ -209,11 +169,11 @@
   },
   {
     "callsign": "WWH23",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/GA-Buchanan-WWH23",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/KWN54",
     "location": "Buchanan, GA",
-    "latitude": 33.8262,
-    "longitude": -85.1838
+    "latitude": 33.802602,
+    "longitude": -85.188560
   },
   {
     "callsign": "WXM32",
@@ -239,13 +199,13 @@
     "latitude": 41.5868,
     "longitude": -93.625
   },
-  {
-    "callsign": "KZZ80",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/IA-Milford-KZZ80",
-    "location": "Milford, IA",
-    "latitude": 43.3255,
-    "longitude": -95.1497
+   {
+    "callsign": "WXK84",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXK84",
+    "location": "Fort Dodge, IA",
+    "latitude": 42.504418,
+    "longitude": -94.191016
   },
   {
     "callsign": "WXL62",
@@ -256,28 +216,12 @@
     "longitude": -96.4003
   },
   {
-    "callsign": "KXI68",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/IA-StAnsgar-KXI68",
-    "location": "St. Ansgar, IA",
-    "latitude": 43.3791,
-    "longitude": -92.9191
-  },
-  {
     "callsign": "WXJ76",
     "info": "Listen",
     "stream_url": "https://wxradio.org/IL-Champaign-WXJ76",
     "location": "Champaign, IL",
     "latitude": 40.1164,
     "longitude": -88.2434
-  },
-  {
-    "callsign": "KXI41",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/IL-CrystalLake-KXI41",
-    "location": "Crystal Lake, IL",
-    "latitude": 42.2411,
-    "longitude": -88.3162
   },
   {
     "callsign": "KZZ55",
@@ -296,28 +240,12 @@
     "longitude": -90.3712
   },
   {
-    "callsign": "KZZ58",
-    "info": "Listen",
-    "stream_url": "https://wxradio.org/IL-Kankakee-KZZ58",
-    "location": "Kankakee, IL",
-    "latitude": 41.1184,
-    "longitude": -87.8631
-  },
-  {
     "callsign": "KZZ81",
     "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/46216",
+    "stream_url": "https://wxr.gwes-cdn.net/KZZ81-Alt",
     "location": "Lockport, IL",
     "latitude": 41.5895,
     "longitude": -88.0578
-  },
-  {
-    "callsign": "WXM49",
-    "info": "Listen",
-    "stream_url": "https://wxradio.org/IL-Marion-WXM49-ALT1",
-    "location": "Marion, IL",
-    "latitude": 37.7306,
-    "longitude": -88.9331
   },
   {
     "callsign": "WXJ71",
@@ -329,8 +257,8 @@
   },
   {
     "callsign": "KXI58",
-    "info": "Offline",
-    "stream_url": "https://radio.weatherusa.net/NWR/KXI58.mp3",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/KXI58",
     "location": "Plano, IL",
     "latitude": 41.6625,
     "longitude": -88.5367
@@ -352,44 +280,12 @@
     "longitude": -86.1581
   },
   {
-    "callsign": "KJY62",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/46678",
-    "location": "Michigan City, IN",
-    "latitude": 41.7075,
-    "longitude": -86.8950
-  },
-  {
     "callsign": "WXJ57",
     "info": "Listen",
     "stream_url": "https://wxradio.org/IN-SouthBend-WXJ57",
     "location": "South Bend, IN",
     "latitude": 41.6764,
     "longitude": -86.252
-  },
-  {
-    "callsign": "KIG76",
-    "info": "Listen",
-    "stream_url": "https://wxr.gwes-cdn.net/KIG76",
-    "location": "Evansville, IN",
-    "latitude": 37.9716,
-    "longitude": -87.5711
-  },
-  {
-    "callsign": "WXK91",
-    "info": "Listen",
-    "stream_url": "https://wxradio.org/KS-Topeka-WXK91-alt1",
-    "location": "Topeka, KS",
-    "latitude": 39.0473,
-    "longitude": -95.6752
-  },
-  {
-    "callsign": "KEC59",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/41213",
-    "location": "Wichita, KS",
-    "latitude": 37.6872,
-    "longitude": -97.3301
   },
   {
     "callsign": "WZ2523",
@@ -406,14 +302,6 @@
     "location": "Owenton, KY",
     "latitude": 38.5362,
     "longitude": -84.8399
-  },
-  {
-    "callsign": "KHB46",
-    "info": "Offline",
-    "stream_url": "https://radio.weatherusa.net/NWR/KHB46.mp3",
-    "location": "Baton Rouge, LA",
-    "latitude": 30.4515,
-    "longitude": -91.1871
   },
   {
     "callsign": "WXJ96",
@@ -456,14 +344,6 @@
     "longitude": -77.72
   },
   {
-    "callsign": "WSM60",
-    "info": "Listen",
-    "stream_url": "https://wxradio.org/ME-Dresden-WSM60",
-    "location": "Dresden, ME",
-    "latitude": 44.1037,
-    "longitude": -69.7214
-  },
-  {
     "callsign": "KEC63",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KEC63.mp3",
@@ -472,32 +352,8 @@
     "longitude": -83.0458
   },
   {
-    "callsign": "KIH29",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/MI-Clio-KIH29",
-    "location": "Clio, MI",
-    "latitude": 43.1764,
-    "longitude": -83.7347
-  },
-  {
-    "callsign": "WZ2560",
-    "info": "Listen",
-    "stream_url": "https://wxr.gwes-cdn.net/WZ2560",
-    "location": "Cannonsburg, MI",
-    "latitude": 43.0495,
-    "longitude": -85.4678
-  },
-  {
-    "callsign": "WWF70",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/MI-Gaylord-WWF70",
-    "location": "Gaylord, MI",
-    "latitude": 45.0275,
-    "longitude": -84.6748
-  },
-  {
     "callsign": "WWF36",
-    "info": "Offline",
+    "info": "Listen",
     "stream_url": "https://wxradio.org/MI-Hesperia-WWF36",
     "location": "Hesperia, MI",
     "latitude": 43.5681,
@@ -513,27 +369,11 @@
   },
   {
     "callsign": "KZZ33",
-    "info": "Offline",
+    "info": "Listen",
     "stream_url": "https://wxradio.org/MI-MountPleasant-KZZ33",
     "location": "Mount Pleasant, MI",
     "latitude": 43.5978,
     "longitude": -84.7675
-  },
-  {
-    "callsign": "WXK81",
-    "info": "Listen",
-    "stream_url": "https://icecast.wxstream.org/NWR/WXK81",
-    "location": "Onondaga, MI",
-    "latitude": 42.4464,
-    "longitude": -84.5666
-  },
-  {
-    "callsign": "KXI33",
-    "info": "Listen",
-    "stream_url": "https://wxradio.org/MI-WestBranch-KXI33",
-    "location": "West Branch, MI",
-    "latitude": 44.2764,
-    "longitude": -84.2367
   },
   {
     "callsign": "WXN99",
@@ -545,7 +385,7 @@
   },
   {
     "callsign": "WNG672",
-    "info": "Offline",
+    "info": "Listen",
     "stream_url": "https://herseynoaaradio.freeddns.org/MI-WolfLake-WNG672-alt1",
     "location": "Wolf Lake, MI",
     "latitude": 42.2339,
@@ -576,14 +416,6 @@
     "longitude": -91.3032
   },
   {
-    "callsign": "KEC65",
-    "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/KEC65.mp3",
-    "location": "Minneapolis, MN",
-    "latitude": 44.9778,
-    "longitude": -93.265
-  },
-  {
     "callsign": "WWG98",
     "info": "Listen",
     "stream_url": "https://wxr.bemidjiwx.org/WWG98",
@@ -592,36 +424,36 @@
     "longitude": -95.0586
   },
   {
-    "callsign": "KID77",
+    "callsign": "WXJ61",
     "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/KID77_3.mp3",
-    "location": "Kansas City, MO",
+    "stream_url": "https://wxr.gwes-cdn.net/WXJ61",
+    "location": "Joplin, MO",
     "latitude": 39.0997,
     "longitude": -94.5786
   },
   {
+    "callsign": "KID77",
+    "info": "Listen",
+    "stream_url": "https://radio.weatherusa.net/NWR/KID77_3.mp3",
+    "location": "Kansas City, MO",
+    "latitude": 37.084176,
+    "longitude": -94.513353
+  },
+  {
     "callsign": "WXL46",
     "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/42757",
+    "stream_url": "https://wxr.gwes-cdn.net/WXL46",
     "location": "Springfield, MO",
     "latitude": 37.209,
     "longitude": -93.2923
   },
   {
-    "callsign": "KDO89",
+    "callsign": "WXL25",
     "info": "Listen",
-    "stream_url": "https://wxradio.org/MO-StLouis-KDO89",
-    "location": "St. Louis, MO",
-    "latitude": 38.627,
-    "longitude": -90.1994
-  },
-  {
-    "callsign": "WXL70",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/NC-Charlotte-WXL70",
-    "location": "Charlotte, NC",
-    "latitude": 35.2271,
-    "longitude": -80.8431
+    "stream_url": "https://wxr.gwes-cdn.net/WXL25",
+    "location": "Missoula, MT",
+    "latitude": 46.870103,,
+    "longitude": -113.995104
   },
   {
     "callsign": "WXL78",
@@ -630,38 +462,6 @@
     "location": "Bismarck, ND",
     "latitude": 46.8083,
     "longitude": -100.7837
-  },
-  {
-    "callsign": "WWF83",
-    "info": "Listen",
-    "stream_url": "https://wxr.gwes-cdn.net/WWF83",
-    "location": "Grand Forks, ND",
-    "latitude": 47.9253,
-    "longitude": -97.0329
-  },
-  {
-    "callsign": "KXI71",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/46937",
-    "location": "Brookings, SD",
-    "latitude": 44.3113,
-    "longitude": -96.7983
-  },
-  {
-    "callsign": "WXM28",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/30502",
-    "location": "Sioux Falls, SD",
-    "latitude": 43.546,
-    "longitude": -96.7312
-  },
-  {
-    "callsign": "WXM25",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/25151",
-    "location": "Aberdeen, SD",
-    "latitude": 45.4647,
-    "longitude": -98.4864
   },
   {
     "callsign": "KZZ69",
@@ -680,14 +480,6 @@
     "longitude": -98.342
   },
   {
-    "callsign": "WXM20",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/NE-Lincoln-WXM20-alt1",
-    "location": "Lincoln, NE",
-    "latitude": 40.8136,
-    "longitude": -96.7026
-  },
-  {
     "callsign": "KIH61",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KIH61.mp3",
@@ -697,35 +489,19 @@
   },
   {
     "callsign": "WXL67",
-    "info": "Offline",
+    "info": "Listen",
     "stream_url": "https://wxradio.org/NE-Scottsbluff-WXL67",
     "location": "Scottsbluff, NE",
     "latitude": 41.8666,
     "longitude": -103.6672
   },
   {
-    "callsign": "WXJ34",
+    "callsign": "WXL91",
     "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/31878",
-    "location": "Albuquerque, NM",
-    "latitude": 35.0844, 
-    "longitude": -106.6504
-  },
-  {
-    "callsign": "WXJ37",
-    "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/WXJ37.mp3",
-    "location": "Farmington, NM",
-    "latitude": 36.7281,
-    "longitude": -108.2187
-  },
-  {
-    "callsign": "WWG20",
-    "info": "Degraded",
-    "stream_url": "https://radio.weatherusa.net/NWR/WWG20.mp3",
-    "location": "Fernley, NV",
-    "latitude": 39.608,
-    "longitude": -119.2518
+    "stream_url": "https://wxr.gwes-cdn.net/WXL91",
+    "location": "Las Cruces, NM",
+    "latitude": 32.314028,
+    "longitude": -106.779803
   },
   {
     "callsign": "WXK58",
@@ -736,36 +512,12 @@
     "longitude": -119.8138
   },
   {
-    "callsign": "WXL34",
-    "info": "Listen",
-    "stream_url": "https://wxradio.org/NY-Albany-WXL34",
-    "location": "Albany, NY",
-    "latitude": 42.6526,
-    "longitude": -73.7562
-  },
-  {
     "callsign": "KEB98",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KEB98.mp3",
     "location": "Buffalo, NY",
     "latitude": 42.8864,
     "longitude": -78.8784
-  },
-  {
-    "callsign": "WZ2536",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/NY-Lyons-WZ2536",
-    "location": "Lyons, NY",
-    "latitude": 43.0631,
-    "longitude": -76.9922
-  },
-  {
-    "callsign": "WXM45",
-    "info": "Offline",
-    "stream_url": "https://radio.weatherusa.net/NWR/WXM45.mp3",
-    "location": "Middleville, NY",
-    "latitude": 43.1367,
-    "longitude": -74.9693
   },
   {
     "callsign": "KWO35",
@@ -800,28 +552,20 @@
     "longitude": -81.519
   },
   {
-    "callsign": "KIH42",
-    "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/KIH42_2.mp3",
-    "location": "Cincinnati, OH",
-    "latitude": 39.1034,
-    "longitude": -84.5118
-  },
-  {
     "callsign": "KIG86",
     "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/KIG86.mp3",
+    "stream_url": "https://wxr.gwes-cdn.net/KIG86",
     "location": "Columbus, OH",
     "latitude": 39.9612,
     "longitude": -83.0007
   },
   {
-    "callsign": "WNG698",
+    "callsign": "WXJ93",
     "info": "Listen",
-    "stream_url": "https://wxradio.org/OH-Grafton-WNG698",
-    "location": "Grafton, OH",
-    "latitude": 41.2756,
-    "longitude": -82.0507
+    "stream_url": "https://wxr.gwes-cdn.net/WXJ93",
+    "location": "Lima, OH",
+    "latitude": 40.739978,
+    "longitude": -84.104977
   },
   {
     "callsign": "WWG57",
@@ -830,6 +574,14 @@
     "location": "Mansfield, OH",
     "latitude": 40.7584,
     "longitude": -82.5155
+  },
+  {
+    "callsign": "KHB97",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/KHB97",
+    "location": "Sandusky, OH",
+    "latitude": 41.456068,
+    "longitude": -82.711591
   },
   {
     "callsign": "WXL51",
@@ -872,22 +624,6 @@
     "longitude": -95.9928
   },
   {
-    "callsign": "WXL98",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/43350",
-    "location": "Roseburg, OR",
-    "latitude": 43.213,
-    "longitude": -123.3413
-  },
-  {
-    "callsign": "WZ2559",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/41784",
-    "location": "Enterprise, OR",
-    "latitude": 45.4262,
-    "longitude": -117.2787
-  },
-  {
     "callsign": "WXL39",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/WXL39",
@@ -904,12 +640,12 @@
     "longitude": -76.8867
   },
   {
-    "callsign": "WNG704",
+    "callsign": "KIH35",
     "info": "Listen",
-    "stream_url": "https://wxradio.org/PA-HiberniaPark-WNG704",
-    "location": "Hibernia Park, PA",
-    "latitude": 40.0353,
-    "longitude": -75.8455
+    "stream_url": "https://wxr.gwes-cdn.net/KIH35",
+    "location": "Pittsburgh, PA",
+    "latitude": 40.440713,
+    "longitude": -80.002570
   },
   {
     "callsign": "KIH28",
@@ -930,42 +666,18 @@
   {
     "callsign": "WXJ21",
     "info": "Listen",
-    "stream_url": "https://wxradio.org/SC-Greenville-WXJ21",
+    "stream_url": "https://wxr.gwes-cdn.net/WXJ21",
     "location": "Greenville, SC",
     "latitude": 34.8526,
     "longitude": -82.394
   },
   {
-    "callsign": "KEC85",
-    "info": "Listen",
-    "stream_url": "https://wxradio.org/SC-Savannah-KEC85",
-    "location": "Savannah, GA",
-    "latitude": 32.0809,
-    "longitude": -81.0912
-  },
-  {
     "callsign": "KHC27",
-    "info": "Offline",
+    "info": "Listen",
     "stream_url": "https://wxradio.org/SC-RockHill-KHC27",
     "location": "Rock Hill, SC",
     "latitude": 34.9249,
     "longitude": -81.0251
-  },
-  {
-    "callsign": "WXK49",
-    "info": "Listen",
-    "stream_url": "https://usa10.fastcast4u.com:3210/1",
-    "location": "Memphis, TN",
-    "latitude": 35.1495,
-    "longitude": -90.049
-  },
-  {
-    "callsign": "KIG79",
-    "info": "Listen",
-    "stream_url": "https://wxr.gwes-cdn.net/KIG79",
-    "location": "Nashville, TN",
-    "latitude": 36.1627,
-    "longitude": -86.7816
   },
   {
     "callsign": "WXK63",
@@ -1032,14 +744,6 @@
     "longitude": -95.6161
   },
   {
-    "callsign": "WXK23",
-    "info": "Offline",
-    "stream_url": "https://radio.weatherusa.net/NWR/WXK23.mp3",
-    "location": "Lufkin, TX",
-    "latitude": 31.3382,
-    "longitude": -94.7291
-  },
-  {
     "callsign": "KWN34",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KWN34.mp3",
@@ -1048,36 +752,12 @@
     "longitude": -95.6308
   },
   {
-    "callsign": "WXK36",
-    "info": "Degraded",
-    "stream_url": "https://radio.weatherusa.net/NWR/WXK36_2.mp3",
-    "location": "Tyler, TX",
-    "latitude": 32.3513,
-    "longitude": -95.3011
-  },
-  {
-    "callsign": "WXK67",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/45581",
-    "location": "San Antonio, TX",
-    "latitude": 29.4243, 
-    "longitude": -98.4911
-  },
-  {
     "callsign": "WXK35",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/EW6308.mp3",
     "location": "Waco, TX",
     "latitude": 31.5493,
     "longitude": -97.1467
-  },
-  {
-    "callsign": "KEC78",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/35369",
-    "location": "Salt Lake City, UT",
-    "latitude": 40.7608,
-    "longitude": -111.891
   },
   {
     "callsign": "KHB36",
@@ -1096,8 +776,16 @@
     "longitude": -76.2859
   },
   {
+    "callsign": "WXM62",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXM62",
+    "location": "Capitol Peak, WA",
+    "latitude": 46.973135,
+    "longitude": -123.138089
+  },
+  {
     "callsign": "WWG24",
-    "info": "Degraded",
+    "info": "Listen",
     "stream_url": "https://wxradio.bobc.io/stream/WWG24",
     "location": "Seattle, WA (Marine)",
     "latitude": 47.6062,
@@ -1128,12 +816,12 @@
     "longitude": -90.8794
   },
   {
-    "callsign": "KIG65",
-    "info": "Offline",
-    "stream_url": "https://wxradio.org/WI-GreenBay-KIG65",
-    "location": "Green Bay, WI",
-    "latitude": 44.5133,
-    "longitude": -88.0133
+    "callsign": "KEC60",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/KEC60",
+    "location": "Milwaukee, WI",
+    "latitude": 43.038638,
+    "longitude": -87.909108
   },
   {
     "callsign": "WXJ88",
@@ -1175,28 +863,4 @@
     "latitude": 38.3498,
     "longitude": -81.6326
   },
-  {
-    "callsign": "WXM74",
-    "info": "Listen",
-    "stream_url": "https://wxr.gwes-cdn.net/WXM74",
-    "location": "Sutton, WV",
-    "latitude": 38.6637,
-    "longitude": -80.7093
-  },
-  {
-    "callsign": "WNG563",
-    "info": "Listen",
-    "stream_url": "https://broadcastify.cdnstream1.com/32110",
-    "location": "Cody, WY",
-    "latitude": 44.5263,
-    "longitude": -109.0565
-  },
-  {
-    "callsign": "WXM61",
-    "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/WXM61.mp3",
-    "location": "Lander, WY",
-    "latitude": 42.833,
-    "longitude": -108.7307
-  }
 ]
