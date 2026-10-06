@@ -168,14 +168,6 @@
     "longitude": -84.388
   },
   {
-    "callsign": "WWH23",
-    "info": "Listen",
-    "stream_url": "https://wxr.gwes-cdn.net/KWN54",
-    "location": "Buchanan, GA",
-    "latitude": 33.802602,
-    "longitude": -85.188560
-  },
-  {
     "callsign": "WXM32",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/WXM32.mp3",
