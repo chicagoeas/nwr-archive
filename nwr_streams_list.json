@@ -153,7 +153,7 @@
   },
   {
     "callsign": "KEC80",
-    "info": "Listen",
+    "info": "Offline",
     "stream_url": "https://wxradio.org/GA-Atlanta-KEC80",
     "location": "Atlanta, GA",
     "latitude": 33.749,
@@ -657,7 +657,7 @@
   },
   {
     "callsign": "WXJ21",
-    "info": "Listen",
+    "info": "Offline",
     "stream_url": "https://wxr.gwes-cdn.net/WXJ21",
     "location": "Greenville, SC",
     "latitude": 34.8526,
@@ -665,7 +665,7 @@
   },
   {
     "callsign": "KHC27",
-    "info": "Listen",
+    "info": "Offline",
     "stream_url": "https://wxradio.org/SC-RockHill-KHC27",
     "location": "Rock Hill, SC",
     "latitude": 34.9249,
