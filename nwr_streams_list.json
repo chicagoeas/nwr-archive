@@ -1,5 +1,13 @@
 [
   {
+    "callsign": "WXM32",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/AL-Columbus-WXM32",
+    "location": "Columbus, AL",
+    "latitude": 32.460837,
+    "longitude": -84.989001
+  },
+  {
     "callsign": "KEC61",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KEC61_2.mp3",
