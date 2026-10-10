@@ -432,6 +432,14 @@
     "longitude": -93.2923
   },
   {
+    "callsign": "KDO89",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/MO-StLouis-KDO89",
+    "location": "St. Louis, MO",
+    "latitude": 38.625408,
+    "longitude": -90.190040
+  },
+  {
     "callsign": "WXL25",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/WXL25",
