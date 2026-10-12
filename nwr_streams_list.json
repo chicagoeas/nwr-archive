@@ -639,6 +639,14 @@
     "latitude": 39.9612,
     "longitude": -83.0007
   },
+   {
+    "callsign": "KJY68",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/OH-Chillicothe-KJY68",
+    "location": "Chillicothe, OH",
+    "latitude": 39.333069,
+    "longitude": -82.982386
+  },
   {
     "callsign": "WXJ93",
     "info": "Listen",
@@ -745,19 +753,27 @@
   },
   {
     "callsign": "WXJ21",
-    "info": "Offline",
-    "stream_url": "https://wxr.gwes-cdn.net/WXJ21",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/SC-Greenville-WXJ21",
     "location": "Greenville, SC",
     "latitude": 34.8526,
     "longitude": -82.394
   },
   {
     "callsign": "KHC27",
-    "info": "Offline",
+    "info": "Listen",
     "stream_url": "https://wxradio.org/SC-RockHill-KHC27",
     "location": "Rock Hill, SC",
     "latitude": 34.9249,
     "longitude": -81.0251
+  },
+  {
+    "callsign": "WXK49",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/TN-Memphis-WXK49",
+    "location": "Memphis, TN",
+    "latitude": 35.14602,
+    "longitude": -90.05178
   },
   {
     "callsign": "WXK63",
@@ -815,6 +831,14 @@
     "latitude": 32.7555,
     "longitude": -97.3308
   },
+   {
+    "callsign": "KHB40",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/TX-Galveston-KHB40",
+    "location": "Galveston, TX",
+    "latitude": 29.305692,
+    "longitude": -94.793333
+  },
   {
     "callsign": "KGG68",
     "info": "Listen",
@@ -830,6 +854,22 @@
     "location": "Palestine, TX",
     "latitude": 31.7621,
     "longitude": -95.6308
+  },
+  {
+    "callsign": "WXK67",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/TX-SanAntonio-WXK67",
+    "location": "San Antonio, TX",
+    "latitude": 29.424614,
+    "longitude": -98.495108
+  },
+  {
+    "callsign": "WXK36",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/TX-Tyler-WXK36",
+    "location": "Tyler, TX",
+    "latitude": 32.35131,
+    "longitude": -95.30103
   },
   {
     "callsign": "WXK35",
@@ -923,7 +963,7 @@
     "callsign": "KGG95",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KGG95.mp3",
-    "location": "Winona, MN",
+    "location": "Winona, WI",
     "latitude": 44.0494,
     "longitude": -91.6366
   },
