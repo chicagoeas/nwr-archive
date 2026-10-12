@@ -360,6 +360,14 @@
     "longitude": -70.2825
   },
   {
+    "callsign": "WXL93",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/MA-Worcester-WXL93",
+    "location": "Worcester, MA",
+    "latitude": 42.262574,
+    "longitude": -71.801823
+  },
+  {
     "callsign": "WXM42",
     "info": "Listen",
     "stream_url": "https://noaa-manassas-radio.from-va.com/Hagerstown.mp3",
