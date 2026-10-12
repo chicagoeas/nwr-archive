@@ -384,6 +384,14 @@
     "longitude": -78.928421
   },
   {
+    "callsign": "WZ2560",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/MI-Cannonsburg-WZ2560",
+    "location": "Cannonsburg, MI",
+    "latitude": 43.053973,
+    "longitude": -85.470039
+  },
+  {
     "callsign": "KEC63",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KEC63.mp3",
@@ -446,6 +454,14 @@
     "location": "Clearwater, MN",
     "latitude": 45.418,
     "longitude": -94.0483
+  },
+  {
+    "callsign": "KEC65",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/MN-MinneapolisStPaul-KEC65-alt1",
+    "location": "Minneapolis/St. Paul, MN",
+    "latitude": 44.977284,
+    "longitude": -93.265450
   },
   {
     "callsign": "WXJ86",
