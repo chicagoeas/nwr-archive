@@ -183,6 +183,14 @@
     "latitude": 32.461,
     "longitude": -84.9877
   },
+   {
+    "callsign": "KXI81",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/GA-Clayton-KXI81",
+    "location": "Clayton, GA",
+    "latitude": 34.878159,
+    "longitude": -83.401015
+  },
   {
     "callsign": "WWG75",
     "info": "Listen",
