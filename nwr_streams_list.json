@@ -368,6 +368,14 @@
     "longitude": -77.72
   },
   {
+    "callsign": "WXM43",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/MD-Frostburg-WXM43",
+    "location": "Frostburg, MD",
+    "latitude": 39.658333,
+    "longitude": -78.928421
+  },
+  {
     "callsign": "KEC63",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KEC63.mp3",
