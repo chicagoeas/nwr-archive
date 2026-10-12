@@ -584,6 +584,14 @@
     "longitude": -78.8784
   },
   {
+    "callsign": "WXM45",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/NY-Middleville-WXM45-alt1",
+    "location": "Middleville, NY",
+    "latitude": 43.138780,
+    "longitude": -74.969367
+  },
+  {
     "callsign": "KWO35",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/KWO35",
@@ -606,6 +614,14 @@
     "location": "Syracuse, NY",
     "latitude": 43.0481,
     "longitude": -76.1474
+  },
+  {
+    "callsign": "KHB31",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/NC-Winnabow-KHB31",
+    "location": "Winnabow, NC",
+    "latitude": 34.149371,
+    "longitude": -78.093599
   },
   {
     "callsign": "KDO94",
