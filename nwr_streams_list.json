@@ -296,6 +296,22 @@
     "longitude": -86.252
   },
   {
+    "callsign": "WXK91",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/KS-Topeka-WXK91-alt1",
+    "location": "Topeka, KS",
+    "latitude": 39.049040,
+    "longitude": -95.677577
+  },
+  {
+    "callsign": "KEC59",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/KS-Wichita-KEC59",
+    "location": "Wichita, KS",
+    "latitude": 37.692245,
+    "longitude": -97.337545
+  },
+  {
     "callsign": "WZ2523",
     "info": "Listen",
     "stream_url": "https://wxradio.org/KY-Frankfort-WZ2523",
