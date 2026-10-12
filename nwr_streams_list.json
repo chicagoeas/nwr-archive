@@ -119,6 +119,14 @@
     "latitude": 28.5383,
     "longitude": -81.3792
   },
+   {
+    "callsign": "KEC38",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/FL-Largo-KEC38",
+    "location": "Largo, FL",
+    "latitude": 28.5383,
+    "longitude": -81.3792
+  },
   {
     "callsign": "WNG522",
     "info": "Listen",
