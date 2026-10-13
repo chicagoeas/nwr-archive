@@ -24,6 +24,14 @@
     "longitude": -110.786
   },
   {
+    "callsign": "WXL30",
+    "info": "Listen",
+    "stream_url": "https://radio.weatherusa.net/NWR/WXL30.mp3",
+    "location": "Tucson, AZ",
+    "latitude": 32.44242,
+    "longitude": -110.78903
+  },
+  {
     "callsign": "WWG41",
     "info": "Listen",
     "stream_url": "https://wxradio.org/AZ-PaysonGilaCountyN-WWG41",
