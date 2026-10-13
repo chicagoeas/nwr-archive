@@ -824,6 +824,14 @@
     "longitude": -96.4689
   },
   {
+    "callsign": "KHB41",
+    "info": "Listen",
+    "stream_url": "https://radio.weatherusa.net/NWR/KHB41_2.mp3",
+    "location": "Rockport, TX",
+    "latitude": 28.020573,
+    "longitude": -97.054440
+  },
+  {
     "callsign": "WXK30",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/WXK30",
