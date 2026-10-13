@@ -983,4 +983,12 @@
     "latitude": 38.3498,
     "longitude": -81.6326
   }
+  {
+    "callsign": "WXM61",
+    "info": "Listen",
+    "stream_url": "https://radio.weatherusa.net/NWR/WXM61.mp3",
+    "location": "Lander, WY",
+    "latitude": 42.83308,
+    "longitude": -108.73047
+  }
 ]
