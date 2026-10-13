@@ -576,6 +576,14 @@
     "longitude": -106.779803
   },
   {
+    "callsign": "WWG20",
+    "info": "Listen",
+    "stream_url": "https://radio.weatherusa.net/NWR/WWG20.mp3",
+    "location": "Fernley, NV",
+    "latitude": 39.756022,
+    "longitude": -119.460464
+  },
+  {
     "callsign": "WXK58",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/WXK58.mp3",
