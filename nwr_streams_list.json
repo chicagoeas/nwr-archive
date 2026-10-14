@@ -932,8 +932,8 @@
     "info": "Listen",
     "stream_url": "https://wxradio.bobc.io/stream/WWG24",
     "location": "Seattle, WA (Marine)",
-    "latitude": 47.6062,
-    "longitude": -122.3321
+    "latitude": 48.117961,
+    "longitude": -122.769535
   },
   {
     "callsign": "WWF56",
@@ -948,8 +948,8 @@
     "info": "Listen",
     "stream_url": "https://wxradio.bobc.io/stream/KHB60",
     "location": "Seattle, WA",
-    "latitude": 47.6062,
-    "longitude": -122.3321
+    "latitude": 47.540201,
+    "longitude": -122.100004
   },
   {
     "callsign": "KZZ78",
