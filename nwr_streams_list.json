@@ -492,16 +492,16 @@
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/WXJ61",
     "location": "Joplin, MO",
-    "latitude": 39.0997,
-    "longitude": -94.5786
+    "latitude": 37.084176,
+    "longitude": -94.513353
   },
   {
     "callsign": "KID77",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KID77_3.mp3",
     "location": "Kansas City, MO",
-    "latitude": 37.084176,
-    "longitude": -94.513353
+    "latitude": 39.0997,
+    "longitude": -94.5786
   },
   {
     "callsign": "WXL46",
