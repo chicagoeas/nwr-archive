@@ -240,6 +240,14 @@
     "longitude": -88.2434
   },
   {
+    "callsign": "KWO39",
+    "info": "Listen",
+    "stream_url": "https://live.skymonitor.app/KWO39.mp3",
+    "location": "Chicago, IL",
+    "latitude": 41.878776,
+    "longitude": -87.635922
+  },
+  {
     "callsign": "KZZ55",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KZZ55.mp3",
