@@ -296,6 +296,14 @@
     "longitude": -90.5773
   },
   {
+    "callsign": "WWG83",
+    "info": "Listen",
+    "stream_url": "https://audio.broadcastify.com/45006.mp3",
+    "location": "Edwardsport, IN",
+    "latitude": 38.811950,
+    "longitude": -87.252216
+  },
+  {
     "callsign": "KEC74",
     "info": "Listen",
     "stream_url": "https://wxradio.org/IN-Indianapolis-KEC74",
