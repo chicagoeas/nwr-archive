@@ -184,14 +184,6 @@
     "longitude": -84.388
   },
   {
-    "callsign": "WXM32",
-    "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/WXM32.mp3",
-    "location": "Columbus, GA",
-    "latitude": 32.461,
-    "longitude": -84.9877
-  },
-   {
     "callsign": "KXI81",
     "info": "Listen",
     "stream_url": "https://wxradio.org/GA-Clayton-KXI81",
