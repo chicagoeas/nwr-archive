@@ -282,18 +282,10 @@
   {
     "callsign": "WXJ73",
     "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/28956.mp3",
+    "stream_url": "https://wxradio.org/IL-QuadCities-WXJ73",
     "location": "Quad Cities, IL",
     "latitude": 41.5067,
     "longitude": -90.5773
-  },
-  {
-    "callsign": "WWG83",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/45006.mp3",
-    "location": "Edwardsport, IN",
-    "latitude": 38.811950,
-    "longitude": -87.252216
   },
   {
     "callsign": "KEC74",
@@ -472,30 +464,6 @@
     "longitude": -94.0483
   },
   {
-    "callsign": "KZZ29",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/33156.mp3",
-    "location": "Coleraine, MN",
-    "latitude": 47.28891,
-    "longitude": -93.42758
-  },
-  {
-    "callsign": "KIG64",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/47601.mp3",
-    "location": "Duluth, MN",
-    "latitude": 46.88014,
-    "longitude": -92.09015
-  },
-  {
-    "callsign": "KXI31",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/39607.mp3",
-    "location": "Jeffers, MN",
-    "latitude": 43.865506,
-    "longitude": -95.120026
-  },
-  {
     "callsign": "KEC65",
     "info": "Listen",
     "stream_url": "https://wxradio.org/MN-MinneapolisStPaul-KEC65-alt1",
@@ -631,14 +599,6 @@
     "latitude": 42.8864,
     "longitude": -78.8784
   },
-    {
-    "callsign": "KZZ31",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/38353.mp3",
-    "location": "Hardyston, NJ",
-    "latitude": 41.14953,
-    "longitude": -74.54464
-  },
   {
     "callsign": "WXM45",
     "info": "Listen",
@@ -672,14 +632,6 @@
     "longitude": -76.1474
   },
   {
-    "callsign": "WXL56",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/37459.mp3",
-    "location": "Asheville, NC",
-    "latitude": 35.59500,
-    "longitude": -82.55015
-  },
-  {
     "callsign": "KHB31",
     "info": "Listen",
     "stream_url": "https://wxradio.org/NC-Winnabow-KHB31",
@@ -690,7 +642,7 @@
   {
     "callsign": "KDO94",
     "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/39819.mp3",
+    "stream_url": "https://wxr.gwes-cdn.net/KDO94-Alt",
     "location": "Akron, OH",
     "latitude": 41.0814,
     "longitude": -81.519
@@ -710,14 +662,6 @@
     "location": "Chillicothe, OH",
     "latitude": 39.333069,
     "longitude": -82.982386
-  },
-  {
-    "callsign": "WXJ46",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/29519.mp3",
-    "location": "Dayton, OH",
-    "latitude": 39.642884,
-    "longitude": -84.286627
   },
   {
     "callsign": "WXJ93",
@@ -782,14 +726,6 @@
     "location": "Tulsa, OK",
     "latitude": 36.154,
     "longitude": -95.9928
-  },
-  {
-    "callsign": "WZ2559",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/41784.mp3",
-    "location": "Enterprise, OR",
-    "latitude": 45.42580,
-    "longitude": -117.27794
   },
   {
     "callsign": "WXL39",
@@ -864,17 +800,9 @@
     "longitude": -86.4603
   },
   {
-    "callsign": "WXK29",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/42709.mp3",
-    "location": "Abilene, TX",
-    "latitude": 32.405889,
-    "longitude": -99.493732
-  },
-  {
     "callsign": "WXK38",
     "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/33896.mp3",
+    "stream_url": "https://radio.weatherusa.net/NWR/WXK38_2.mp3",
     "location": "Amarillo, TX",
     "latitude": 35.222,
     "longitude": -101.8313
@@ -954,7 +882,7 @@
   {
     "callsign": "WXK67",
     "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/45581.mp3",
+    "stream_url": "https://wxradio.org/TX-SanAntonio-WXK67",
     "location": "San Antonio, TX",
     "latitude": 29.424614,
     "longitude": -98.495108
@@ -974,14 +902,6 @@
     "location": "Waco, TX",
     "latitude": 31.5493,
     "longitude": -97.1467
-  },
-   {
-    "callsign": "KEC78",
-    "info": "Listen",
-    "stream_url": "https://audio.broadcastify.com/35369.mp3",
-    "location": "Salt Lake City, UT",
-    "latitude": 40.75948,
-    "longitude": -111.88708
   },
   {
     "callsign": "KHB36",
