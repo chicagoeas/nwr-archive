@@ -88,6 +88,14 @@
     "longitude": -121.8947
   },
   {
+    "callsign": "WXM66",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/CA-Victorville-WXM66",
+    "location": "Victorville, CA",
+    "latitude": 34.1840,
+    "longitude": -116.9659
+  },
+  {
     "callsign": "WXL87",
     "info": "Listen",
     "stream_url": "https://wxradio.org/CA-Yuma-WXL87",
@@ -568,6 +576,14 @@
     "longitude": -98.342
   },
   {
+    "callsign": "WXM20",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/NE-Lincoln-WXM20-alt2",
+    "location": "Lincoln, NE",
+    "latitude": 40.8089,
+    "longitude": -96.7072
+  },
+  {
     "callsign": "KIH61",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KIH61.mp3",
@@ -606,6 +622,14 @@
     "location": "Reno, NV",
     "latitude": 39.5296,
     "longitude": -119.8138
+  },
+  {
+    "callsign": "WXL34",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/NY-Albany-WXL34",
+    "location": "Albany, NY",
+    "latitude": 42.6304,
+    "longitude": -73.9085
   },
   {
     "callsign": "KEB98",
@@ -664,6 +688,14 @@
     "longitude": -81.519
   },
   {
+    "callsign": "KZZ47",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/OH-Carey-KZZ47",
+    "location": "Carey, OH",
+    "latitude": 40.95281,
+    "longitude": -83.38297
+  },
+  {
     "callsign": "KIG86",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/KIG86",
@@ -678,6 +710,14 @@
     "location": "Chillicothe, OH",
     "latitude": 39.333069,
     "longitude": -82.982386
+  },
+  {
+    "callsign": "WNG698",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/OH-Grafton-WNG698",
+    "location": "Grafton, OH",
+    "latitude": 41.27232,
+    "longitude": -82.05448
   },
   {
     "callsign": "WXJ93",
@@ -758,6 +798,14 @@
     "location": "Harrisburg, PA",
     "latitude": 40.2732,
     "longitude": -76.8867
+  },
+  {
+    "callsign": "WNG704",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/PA-HiberniaPark-WNG704",
+    "location": "Hibernia Park, PA",
+    "latitude": 40.0221674,
+    "longitude": -75.8138046
   },
   {
     "callsign": "KIH35",
@@ -976,9 +1024,17 @@
     "longitude": -90.8794
   },
   {
+    "callsign": "KIG65",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/WI-GreenBay-KIG65",
+    "location": "Green Bay, WI",
+    "latitude": 44.44959,
+    "longitude": -88.05988
+  },
+  {
     "callsign": "KEC60",
     "info": "Listen",
-    "stream_url": "https://wxr.gwes-cdn.net/KEC60",
+    "stream_url": "https://wxradio.org/WI-Milwaukee-KEC60",
     "location": "Milwaukee, WI",
     "latitude": 43.038638,
     "longitude": -87.909108
