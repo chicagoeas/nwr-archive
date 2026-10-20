@@ -104,6 +104,14 @@
     "longitude": -72.807
   },
   {
+    "callsign": "KIH26",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/FL-DaytonaBeach-KIH26",
+    "location": "Daytona Beach, FL",
+    "latitude": 29.177939,
+    "longitude": -81.163452
+  },
+  {
     "callsign": "WZ2531",
     "info": "Offline",
     "stream_url": "https://wxr.gwes-cdn.net/WZ2531",
