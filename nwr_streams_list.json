@@ -88,6 +88,14 @@
     "longitude": -121.8947
   },
   {
+    "callsign": "WXL87",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/CA-Yuma-WXL87",
+    "location": "Yuma, CA",
+    "latitude": 32.72043,
+    "longitude": -114.62070
+  },
+  {
     "callsign": "KWN54",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/KWN54",
