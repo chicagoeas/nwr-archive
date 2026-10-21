@@ -752,6 +752,14 @@
     "longitude": -81.519
   },
   {
+    "callsign": "KZZ46",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/KZZ46",
+    "location": "Athens, OH",
+    "latitude": 39.32872,
+    "longitude": -82.10152
+  },
+  {
     "callsign": "KZZ47",
     "info": "Listen",
     "stream_url": "https://wxradio.org/OH-Carey-KZZ47",
@@ -872,6 +880,14 @@
     "longitude": -75.8138046
   },
   {
+    "callsign": "WXM33",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXM33",
+    "location": "Johnstown, PA",
+    "latitude": 40.32639,
+    "longitude": -78.92218
+  },
+  {
     "callsign": "KIH35",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/KIH35",
@@ -910,6 +926,14 @@
     "location": "Rock Hill, SC",
     "latitude": 34.9249,
     "longitude": -81.0251
+  },
+  {
+    "callsign": "KEC85",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/KEC85",
+    "location": "Savannah, SC",
+    "latitude": 32.48066,
+    "longitude": -80.98022
   },
   {
     "callsign": "WXK49",
@@ -963,7 +987,7 @@
     "callsign": "WXK30",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/WXK30",
-    "location": "College Station, TX",
+    "location": "Bryan, TX",
     "latitude": 30.628,
     "longitude": -96.3344
   },
@@ -1059,7 +1083,7 @@
     "callsign": "WWG24",
     "info": "Listen",
     "stream_url": "https://wxradio.bobc.io/stream/WWG24",
-    "location": "Seattle, WA (Marine)",
+    "location": "Puget Sound Marine, WA",
     "latitude": 48.117961,
     "longitude": -122.769535
   },
@@ -1142,6 +1166,14 @@
     "location": "Charleston, WV",
     "latitude": 38.3498,
     "longitude": -81.6326
+  },
+  {
+    "callsign": "WXM74",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXM74",
+    "location": "Sutton, WV",
+    "latitude": 38.66407,
+    "longitude": -80.70829
   },
   {
     "callsign": "WXM61",
