@@ -584,6 +584,14 @@
     "longitude": -100.7837
   },
   {
+    "callsign": "WWF83",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WWF83",
+    "location": "Grand Forks, ND",
+    "latitude": 47.9255,
+    "longitude": -97.0302
+  },
+  {
     "callsign": "KZZ69",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/KZZ69.mp3",
@@ -622,6 +630,14 @@
     "location": "Scottsbluff, NE",
     "latitude": 41.8666,
     "longitude": -103.6672
+  },
+  {
+    "callsign": "WXJ37",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXJ37",
+    "location": "Farmington, NM",
+    "latitude": 36.72884,
+    "longitude": -108.20555
   },
   {
     "callsign": "WXL91",
@@ -694,6 +710,30 @@
     "location": "Syracuse, NY",
     "latitude": 43.0481,
     "longitude": -76.1474
+  },
+  {
+    "callsign": "WNG706",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WNG706",
+    "location": "Garner, NC",
+    "latitude": 35.71056,
+    "longitude": -78.61319
+  },
+  {
+    "callsign": "WXL59",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXL59",
+    "location": "Rocky Mount, NC",
+    "latitude": 35.89739,
+    "longitude": -77.53601
+  },
+  {
+    "callsign": "KXI95",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/KXI95",
+    "location": "Warsaw, NC",
+    "latitude": 35.00033,
+    "longitude": -78.09443
   },
   {
     "callsign": "KHB31",
