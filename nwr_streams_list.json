@@ -16,6 +16,14 @@
     "longitude": -88.0399
   },
   {
+    "callsign": "WXJ50",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXJ50",
+    "location": "Fort Smith, AR",
+    "latitude": 35.311691,
+    "longitude": -94.306675
+  },
+  {
     "callsign": "WWG42",
     "info": "Listen",
     "stream_url": "https://wxradio.org/AZ-Globe-WWG42",
@@ -70,6 +78,14 @@
     "location": "Fresno, CA",
     "latitude": 36.7378,
     "longitude": -119.7871
+  },
+  {
+    "callsign": "KWO37",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/KWO37",
+    "location": "Los Angeles, CA",
+    "latitude": 34.268990,
+    "longitude": -118.238989
   },
   {
     "callsign": "WWF64",
@@ -438,6 +454,14 @@
     "location": "Hesperia, MI",
     "latitude": 43.5681,
     "longitude": -86.0381
+  },
+  {
+    "callsign": "WXK81",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXK81",
+    "location": "Onondaga, MI",
+    "latitude": 42.442627,
+    "longitude": -84.572437
   },
   {
     "callsign": "WWF34",
