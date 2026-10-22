@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "name": "Gila County",
+      "match": {
+        "same_codes_any": ["004007"]
+      },
+      "preferred_transmitter": "WWG41",
+      "fallback_transmitters": ["WWG42"],
+      "fallback_only_if_preferred_status": "Offline"
+    }
+  ]
+}
