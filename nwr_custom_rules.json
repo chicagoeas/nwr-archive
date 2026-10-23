@@ -20,6 +20,16 @@
       "preferred_transmitter": "WWG42",
       "fallback_transmitters": ["WWG41"],
       "fallback_only_if_preferred_status": "Offline"
+    },
+    {
+      "name": "Pinal County — NWS Tucson",
+      "match": {
+        "same_codes_any": ["004021"],
+        "wfo_codes_any": ["TWC"]
+      },
+      "preferred_transmitter": "WXL30",
+      "fallback_transmitters": ["KEC94"],
+      "fallback_only_if_preferred_status": "Offline"
     }
   ]
 }
