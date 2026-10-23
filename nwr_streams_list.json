@@ -328,6 +328,14 @@
     "longitude": -90.5773
   },
   {
+    "callsign": "WNG689",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WNG689",
+    "location": "Hebron, IN",
+    "latitude": 41.31850,
+    "longitude": -87.19986
+  },
+  {
     "callsign": "KEC74",
     "info": "Listen",
     "stream_url": "https://wxradio.org/IN-Indianapolis-KEC74",
