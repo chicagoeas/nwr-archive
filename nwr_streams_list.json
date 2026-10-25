@@ -1026,7 +1026,7 @@
   {
     "callsign": "KGG68",
     "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/KGG68.mp3",
+    "stream_url": "https://wxr.gwes-cdn.net/KGG68",
     "location": "Tomball, TX",
     "latitude": 30.0972,
     "longitude": -95.6161
