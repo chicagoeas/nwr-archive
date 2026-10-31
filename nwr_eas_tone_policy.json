@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "description": "Starter roster of all 122 NWS Weather Forecast Offices. Every office starts enabled for HWW, FLW, WSW, and BZW; remove codes after verification. Empty office arrays mean N/A.",
+  "description": "Specifically for transmitters managed by each office. N/A means no codes are supported.",
   "source_url": "https://www.weather.gov/source/datamgmt/xr08_CCCC_ID_List.html",
   "default_codes": [
     "HWW",
