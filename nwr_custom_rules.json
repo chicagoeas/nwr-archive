@@ -32,6 +32,16 @@
       "fallback_only_if_preferred_status": "Offline"
     },
     {
+      "name": "Prefer English station over Spanish one",
+      "match": {
+        "same_codes_any": ["012011","012086"],
+        "wfo_codes_any": ["MFL"]
+      },
+      "preferred_transmitter": "KHB34",
+      "fallback_transmitters": ["WZ2531"],
+      "fallback_only_if_preferred_status": "Offline"
+    },
+    {
       "name": "Prefer MN/St. Paul Transmitter over Clearwater",
       "match": {
         "same_codes_any": ["027171","027019","027003","027053","127053","327053","427053","527053","627053","827053"],
