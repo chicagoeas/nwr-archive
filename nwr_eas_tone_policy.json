@@ -1,0 +1,745 @@
+{
+  "version": 1,
+  "description": "Starter roster of all 122 NWS Weather Forecast Offices. Every office starts enabled for HWW, FLW, WSW, and BZW; remove codes after verification. Empty office arrays mean N/A.",
+  "source_url": "https://www.weather.gov/source/datamgmt/xr08_CCCC_ID_List.html",
+  "default_codes": [
+    "HWW",
+    "FLW",
+    "WSW",
+    "BZW"
+  ],
+  "offices": {
+    "ABQ": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "ABR": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "AFC": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "AFG": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "AJK": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "AKQ": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "ALY": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "AMA": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "APX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "ARX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BGM": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BIS": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BMX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BOI": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BOU": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BOX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BRO": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BTV": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BUF": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "BYZ": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "CAE": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "CAR": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "CHS": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "CLE": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "CRP": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "CTP": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "CYS": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "DDC": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "DLH": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "DMX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "DTX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "DVN": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "EAX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "EKA": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "EPZ": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "EWX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "FFC": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "FGF": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "FGZ": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "FSD": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "FWD": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GGW": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GID": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GJT": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GLD": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GRB": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GRR": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GSP": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GUM": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "GYX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "HFO": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "HGX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "HNX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "HUN": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "ICT": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "ILM": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "ILN": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "ILX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "IND": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "IWX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "JAN": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "JAX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "JKL": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "KEY": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LBF": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LCH": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LIX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LKN": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LMK": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LOT": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LOX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LSX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LUB": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LWX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "LZK": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MAF": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MEG": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MFL": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MFR": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MHX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MKX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MLB": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MOB": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MPX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MQT": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MRX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MSO": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "MTR": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "OAX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "OHX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "OKX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "OTX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "OUN": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "PAH": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "PBZ": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "PDT": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "PHI": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "PIH": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "PQR": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "PSR": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "PUB": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "RAH": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "REV": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "RIW": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "RLX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "RNK": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "SEW": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "SGF": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "SGX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "SHV": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "SJT": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "SJU": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "SLC": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "STO": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "TAE": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "TBW": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "TFX": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "TOP": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "TSA": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "TWC": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "UNR": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ],
+    "VEF": [
+      "HWW",
+      "FLW",
+      "WSW",
+      "BZW"
+    ]
+  }
+}
