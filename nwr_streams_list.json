@@ -145,7 +145,7 @@
   },
   {
     "callsign": "WZ2531",
-    "info": "Offline",
+    "info": "Disabled",
     "stream_url": "https://wxr.gwes-cdn.net/WZ2531",
     "location": "Hialeah, FL (Spanish)",
     "latitude": 25.8268,
