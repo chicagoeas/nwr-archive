@@ -28,7 +28,7 @@
         "wfo_codes_any": ["TWC"]
       },
       "preferred_transmitter": "WXL30",
-      "fallback_transmitters": ["KEC94"],
+      "fallback_transmitters": [],
       "fallback_only_if_preferred_status": "Offline"
     },
     {
