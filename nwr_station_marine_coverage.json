@@ -1,0 +1,115 @@
+{
+  "nwr_station_marine_coverage": {
+    "WWF64": [
+      "PZZ530", "PZZ531", "PZZ535", "PZZ540", "PZZ545", "PZZ560", "PZZ565", "PZZ570", "PZZ575"
+    ],
+    "KEC49": [
+      "PZZ530", "PZZ531", "PZZ535", "PZZ540", "PZZ545", "PZZ560", "PZZ565", "PZZ570", "PZZ575"
+    ],
+    "KWO37": [
+      "PZZ650", "PZZ655", "PZZ670", "PZZ673", "PZZ676"
+    ],
+    "KHB41": [
+      "GMZ231", "GMZ232", "GMZ235", "GMZ236", "GMZ250", "GMZ255", "GMZ270", "GMZ275"
+    ],
+    "KHB40": [
+      "GMZ330", "GMZ335", "GMZ350", "GMZ355", "GMZ370", "GMZ375"
+    ],
+    "KEC61": [
+      "GMZ630", "GMZ631", "GMZ632", "GMZ633", "GMZ634", "GMZ635", "GMZ636", "GMZ650", "GMZ655", "GMZ670", "GMZ675"
+    ],
+    "KIH24": [
+      "GMZ730", "GMZ750", "GMZ752", "GMZ755", "GMZ770", "GMZ772", "GMZ775"
+    ],
+    "KEC38": [
+      "GMZ830", "GMZ850", "GMZ853", "GMZ856", "GMZ870", "GMZ873", "GMZ876"
+    ],
+    "KHB32": [
+      "GMZ830", "GMZ850", "GMZ853", "GMZ856", "GMZ870", "GMZ873", "GMZ876"
+    ],
+    "WNG663": [
+      "AMZ610", "AMZ630", "AMZ650", "AMZ651", "AMZ670", "AMZ671"
+    ],
+    "KHB34": [
+      "AMZ610", "AMZ630", "AMZ650", "AMZ651", "AMZ670", "AMZ671", "GMZ656", "GMZ676"
+    ],
+    "KIH26": [
+      "AMZ550", "AMZ552", "AMZ555", "AMZ570", "AMZ572", "AMZ575"
+    ],
+    "KEC85": [
+      "AMZ330", "AMZ350", "AMZ352", "AMZ354", "AMZ370", "AMZ372", "AMZ374"
+    ],
+    "KHB31": [
+      "AMZ230", "AMZ250", "AMZ252", "AMZ254", "AMZ270", "AMZ272", "AMZ274"
+    ],
+    "KHB37": [
+      "ANZ630", "ANZ631", "ANZ632", "ANZ633", "ANZ634", "ANZ635", "ANZ636", "ANZ637", "ANZ638", "ANZ650", "ANZ652", "ANZ654", "ANZ656", "ANZ658", "ANZ670", "ANZ672", "ANZ674", "ANZ676", "ANZ678"
+    ],
+    "KHB36": [
+      "ANZ630", "ANZ631", "ANZ632", "ANZ633", "ANZ634", "ANZ638", "ANZ650", "ANZ652", "ANZ654", "ANZ656", "ANZ658", "ANZ670", "ANZ672", "ANZ674", "ANZ676", "ANZ678"
+    ],
+    "KWO35": [
+      "ANZ330", "ANZ332", "ANZ335", "ANZ338", "ANZ340", "ANZ345", "ANZ350", "ANZ353", "ANZ355", "ANZ380", "ANZ385"
+    ],
+    "WXJ42": [
+      "ANZ330", "ANZ332", "ANZ335", "ANZ350", "ANZ353", "ANZ355"
+    ],
+    "KEC73": [
+      "ANZ230", "ANZ231", "ANZ232", "ANZ235", "ANZ236", "ANZ250", "ANZ254", "ANZ256", "ANZ270", "ANZ272", "ANZ275"
+    ],
+    "KHB35": [
+      "ANZ230", "ANZ231", "ANZ232", "ANZ234", "ANZ235", "ANZ237", "ANZ250", "ANZ251", "ANZ254", "ANZ270", "ANZ271"
+    ],
+    "KHA53": [
+      "LOZ042", "LOZ043", "LOZ044", "LOZ062", "LOZ063", "LOZ064"
+    ],
+    "KEB98": [
+      "LEZ020", "LEZ040", "LEZ041", "LEZ060", "LEZ061", "LOZ042", "LOZ062"
+    ],
+    "WNG698": [
+      "LEZ144", "LEZ145", "LEZ164", "LEZ165"
+    ],
+    "KHB97": [
+      "LEZ142", "LEZ143", "LEZ162", "LEZ163"
+    ],
+    "WXL51": [
+      "LEZ144", "LEZ145", "LEZ164", "LEZ165"
+    ],
+    "KEC63": [
+      "LCZ422", "LHZ361", "LHZ362", "LHZ363", "LHZ421", "LHZ422", "LSZ361"
+    ],
+    "WWF36": [
+      "LMZ844", "LMZ845", "LMZ846", "LMZ864", "LMZ865", "LMZ866"
+    ],
+    "WXN99": [
+      "LMZ844", "LMZ845", "LMZ846", "LMZ864", "LMZ865", "LMZ866"
+    ],
+    "WNG672": [
+      "LMZ844", "LMZ845", "LMZ864", "LMZ865"
+    ],
+    "KWO39": [
+      "LMZ740", "LMZ741", "LMZ742", "LMZ743", "LMZ744", "LMZ760", "LMZ761", "LMZ762", "LMZ763", "LMZ764", "LMZ765"
+    ],
+    "KEC60": [
+      "LMZ643", "LMZ644", "LMZ645", "LMZ646", "LMZ663", "LMZ664", "LMZ665", "LMZ666"
+    ],
+    "KIG65": [
+      "LMZ522", "LMZ541", "LMZ542", "LMZ543", "LMZ563", "LMZ565", "LMZ643", "LMZ663"
+    ],
+    "WNG553": [
+      "LMZ522", "LMZ541", "LMZ542", "LMZ543", "LMZ563", "LMZ565"
+    ],
+    "KZZ78": [
+      "LSZ121", "LSZ146", "LSZ147", "LSZ148", "LSZ162"
+    ],
+    "WWG24": [
+      "PZZ131", "PZZ132", "PZZ133", "PZZ134", "PZZ135", "PZZ150", "PZZ170"
+    ],
+    "KHB60": [
+      "PZZ131", "PZZ132", "PZZ133", "PZZ134", "PZZ135", "PZZ150", "PZZ170"
+    ],
+    "WXM62": [
+      "PZZ131", "PZZ133", "PZZ135", "PZZ150", "PZZ170"
+    ]
+  }
+}
