@@ -570,7 +570,7 @@
   {
     "callsign": "KDO89",
     "info": "Listen",
-    "stream_url": "https://wxradio.org/MO-StLouis-KDO89",
+    "stream_url": "https://wxr.gwes-cdn.net/KDO89-Alt2",
     "location": "St. Louis, MO",
     "latitude": 38.625408,
     "longitude": -90.190040
