@@ -1176,6 +1176,14 @@
     "longitude": -81.6326
   },
   {
+    "callsign": "WXM73",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WXM73",
+    "location": "Moorefield, WV",
+    "latitude": 39.0618,
+    "longitude": -78.9711
+  },
+  {
     "callsign": "WXM74",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/WXM74",
