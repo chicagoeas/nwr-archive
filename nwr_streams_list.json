@@ -232,6 +232,14 @@
     "longitude": -83.401015
   },
   {
+    "callsign": "WXJ53",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/GA-Cleveland-WXJ53",
+    "location": "Cleveland, GA",
+    "latitude": 34.509521,
+    "longitude": -83.806559
+  },
+  {
     "callsign": "WWG75",
     "info": "Listen",
     "stream_url": "https://wxradio.org/HI-Maui-WWG75",
