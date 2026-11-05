@@ -376,6 +376,14 @@
     "longitude": -97.337545
   },
   {
+    "callsign": "KIH42",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/KY-Covington-KIH42",
+    "location": "Covington, KY",
+    "latitude": 39.0829,
+    "longitude": -84.5092
+  },
+  {
     "callsign": "WZ2523",
     "info": "Listen",
     "stream_url": "https://wxradio.org/KY-Frankfort-WZ2523",
@@ -390,6 +398,14 @@
     "location": "Owenton, KY",
     "latitude": 38.5362,
     "longitude": -84.8399
+  },
+  {
+    "callsign": "KHB46",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/LA-BatonRouge-KHB46",
+    "location": "Baton Rouge, LA",
+    "latitude": 30.58872,
+    "longitude": -91.16824
   },
   {
     "callsign": "WXJ96",
@@ -634,7 +650,7 @@
   {
     "callsign": "KIH61",
     "info": "Listen",
-    "stream_url": "https://radio.weatherusa.net/NWR/KIH61.mp3",
+    "stream_url": "https://wxradio.org/NE-Omaha-KIH61",
     "location": "Omaha, NE",
     "latitude": 41.2565,
     "longitude": -95.9345
