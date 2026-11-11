@@ -224,6 +224,14 @@
     "longitude": -84.388
   },
   {
+    "callsign": "WWH23",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WWH23",
+    "location": "Buchanan, GA",
+    "latitude": 33.80283,
+    "longitude": -85.18842
+  },
+  {
     "callsign": "KXI81",
     "info": "Listen",
     "stream_url": "https://wxradio.org/GA-Clayton-KXI81",
@@ -238,6 +246,14 @@
     "location": "Cleveland, GA",
     "latitude": 34.509521,
     "longitude": -83.806559
+  },
+  {
+    "callsign": "WWH24",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/GA-Toccoa-WWH24",
+    "location": "Toccoa, GA",
+    "latitude": 34.529275,
+    "longitude": -83.375738
   },
   {
     "callsign": "WWG75",
@@ -462,6 +478,14 @@
     "location": "Frostburg, MD",
     "latitude": 39.658333,
     "longitude": -78.928421
+  },
+  {
+    "callsign": "WSM60",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/ME-Dresden-WSM60",
+    "location": "Dresden, ME",
+    "latitude": 44.122862,
+    "longitude": -69.680875
   },
   {
     "callsign": "WZ2560",
