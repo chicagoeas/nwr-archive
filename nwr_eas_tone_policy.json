@@ -5,6 +5,7 @@
   "default_codes": [
     "HWW",
     "FLW",
+    "CFW",
     "FLA",
     "WSW",
     "BZW"
@@ -27,6 +28,7 @@
     "AFC": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -34,6 +36,7 @@
     "AFG": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -41,6 +44,7 @@
     "AJK": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -48,6 +52,7 @@
     "AKQ": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -118,6 +123,7 @@
     "BOX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -125,6 +131,7 @@
     "BRO": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -160,6 +167,7 @@
     "CAR": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -167,6 +175,7 @@
     "CHS": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -181,6 +190,7 @@
     "CRP": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -243,6 +253,7 @@
     "EKA": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -345,6 +356,7 @@
     "GUM": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -352,6 +364,7 @@
     "GYX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -359,6 +372,7 @@
     "HFO": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -366,6 +380,7 @@
     "HGX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -394,6 +409,7 @@
     "ILM": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -436,6 +452,7 @@
     "JAX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -450,6 +467,7 @@
     "KEY": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -464,6 +482,7 @@
     "LCH": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -471,6 +490,7 @@
     "LIX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -495,6 +515,7 @@
     "LOX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -516,6 +537,7 @@
     "LWX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -544,6 +566,7 @@
     "MFL": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -551,6 +574,7 @@
     "MFR": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -558,6 +582,7 @@
     "MHX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -574,6 +599,7 @@
     "MOB": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -609,6 +635,7 @@
     "MTR": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -630,6 +657,7 @@
     "OKX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -672,6 +700,7 @@
     "PHI": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -686,6 +715,7 @@
     "PQR": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -742,6 +772,7 @@
     "SEW": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -756,6 +787,7 @@
     "SGX": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -777,6 +809,7 @@
     "SJU": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -798,6 +831,7 @@
     "TAE": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
@@ -805,6 +839,7 @@
     "TBW": [
       "HWW",
       "FLW",
+      "CFW",
       "FLA",
       "WSW",
       "BZW"
