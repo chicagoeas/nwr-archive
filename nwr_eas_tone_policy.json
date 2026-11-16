@@ -7,6 +7,7 @@
     "FLW",
     "CFW",
     "FLA",
+    "FFA",
     "WSW",
     "BZW"
   ],
@@ -15,6 +16,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -22,6 +24,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -30,6 +33,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -38,6 +42,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -46,6 +51,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -54,6 +60,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -61,6 +68,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -68,6 +76,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -75,6 +84,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -82,6 +92,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -89,6 +100,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -96,6 +108,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -103,6 +116,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -110,6 +124,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -117,6 +132,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -125,6 +141,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -133,6 +150,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -140,6 +158,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -147,6 +166,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -154,6 +174,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -161,6 +182,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -169,6 +191,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -177,6 +200,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -184,6 +208,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -192,6 +217,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -199,6 +225,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -206,6 +233,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -213,6 +241,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -220,6 +249,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -227,6 +257,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -234,6 +265,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -241,12 +273,14 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
     "EAX": [
       "HWW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -255,6 +289,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -262,6 +297,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -269,6 +305,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -276,6 +313,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -283,12 +321,14 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
     "FGZ": [
       "HWW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -296,6 +336,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -303,6 +344,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -310,6 +352,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -317,18 +360,21 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
     "GJT": [
       "HWW",
       "FLA",
+      "FFA",
       "BZW"
     ],
     "GLD": [
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -336,6 +382,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -343,6 +390,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -350,6 +398,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -358,6 +407,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -366,6 +416,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -374,6 +425,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -382,6 +434,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -389,6 +442,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -396,6 +450,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -403,6 +458,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -411,6 +467,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -418,6 +475,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -425,6 +483,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -432,6 +491,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -439,6 +499,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -446,6 +507,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -454,6 +516,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -461,6 +524,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -469,6 +533,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -476,6 +541,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -484,6 +550,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -492,6 +559,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -499,6 +567,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -506,6 +575,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -517,6 +587,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -524,6 +595,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -531,6 +603,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -539,6 +612,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -546,6 +620,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -553,6 +628,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -560,6 +636,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -568,6 +645,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -576,6 +654,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -584,6 +663,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -593,6 +673,7 @@
     "MLB": [
       "HWW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -601,6 +682,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -608,6 +690,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -615,6 +698,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -622,6 +706,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -629,6 +714,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -637,6 +723,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -644,6 +731,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -651,6 +739,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -659,6 +748,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -666,6 +756,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -673,6 +764,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -680,6 +772,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -687,6 +780,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -694,6 +788,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -702,6 +797,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -709,6 +805,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -717,6 +814,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -724,6 +822,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -731,6 +830,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -738,6 +838,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -745,6 +846,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -752,6 +854,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -759,6 +862,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -766,6 +870,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -774,6 +879,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -781,6 +887,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -789,6 +896,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -796,6 +904,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -803,6 +912,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -811,6 +921,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -818,6 +929,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -825,6 +937,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -833,6 +946,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -841,6 +955,7 @@
       "FLW",
       "CFW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -848,12 +963,14 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
     "TOP": [
       "HWW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -861,12 +978,14 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
     "TWC": [
       "HWW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -874,6 +993,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ],
@@ -881,6 +1001,7 @@
       "HWW",
       "FLW",
       "FLA",
+      "FFA",
       "WSW",
       "BZW"
     ]
