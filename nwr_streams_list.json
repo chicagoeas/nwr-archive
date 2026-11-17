@@ -864,6 +864,14 @@
     "longitude": -82.5155
   },
   {
+    "callsign": "WNG735",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WNG735",
+    "location": "New Philadelphia, OH",
+    "latitude": 40.48926,
+    "longitude": -81.44594
+  },
+  {
     "callsign": "KHB97",
     "info": "Listen",
     "stream_url": "https://wxr.gwes-cdn.net/KHB97",
@@ -878,6 +886,14 @@
     "location": "Toledo, OH",
     "latitude": 41.6528,
     "longitude": -83.5379
+  },
+  {
+    "callsign": "WWG56",
+    "info": "Listen",
+    "stream_url": "https://wxr.gwes-cdn.net/WWG56",
+    "location": "Youngstown, OH",
+    "latitude": 41.10354,
+    "longitude": -80.65149
   },
   {
     "callsign": "WXK86",
