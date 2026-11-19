@@ -1,5 +1,25 @@
 {
   "version": 1,
+  "transmitter_wfo_restrictions": [
+    {
+      "_comment": "N/A",
+      "name": "NWS Hanford transmitters only tone-alert for NWS Hanford alerts.",
+      "enabled": true,
+      "transmitters": ["WNG659"],
+      "allowed_wfo_codes": ["HNX"],
+      "include_spc_watches": true
+    }
+  ],
+  "tone_exclusions": [
+    {
+      "_comment": "NWS Melbourne tones areal Flood Warnings/Watches (VTEC FA, plus FF flash flood watches) but not river Flood Warnings/Watches (VTEC FL). Applies to transmitters whose managing WFO is listed.",
+      "name": "NWS Melbourne — areal floods only, no river floods",
+      "enabled": true,
+      "managing_wfo_codes_any": ["MLB"],
+      "event_codes_any": ["FLW", "FLA"],
+      "skip_vtec_phenomena": ["FL"]
+    }
+  ],
   "rules": [
     {
       "name": "Gila County — NWS Flagstaff",
