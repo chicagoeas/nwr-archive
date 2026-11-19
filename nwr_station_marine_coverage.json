@@ -19,7 +19,7 @@
       "GMZ630", "GMZ631", "GMZ632", "GMZ633", "GMZ634", "GMZ635", "GMZ636", "GMZ650", "GMZ655", "GMZ670", "GMZ675"
     ],
     "KIH24": [
-      "GMZ730", "GMZ752", "GMZ755", "GMZ770", "GMZ772", "GMZ775"
+      "GMZ730", "GMZ755", "GMZ772", "GMZ775"
     ],
     "KEC38": [
       "GMZ830", "GMZ850", "GMZ853", "GMZ856", "GMZ870", "GMZ873", "GMZ876"
@@ -40,7 +40,7 @@
       "AMZ340", "AMZ360", "AMZ362", "AMZ364", "AMZ380", "AMZ382", "AMZ384"
     ],
     "KHB31": [
-      "AMZ230", "AMZ250", "AMZ252", "AMZ254", "AMZ280", "AMZ284"
+      "AMZ250", "AMZ252", "AMZ254", "AMZ280", "AMZ284"
     ],
     "KHB37": [
       "ANZ630", "ANZ631", "ANZ632", "ANZ633", "ANZ634", "ANZ635", "ANZ636", "ANZ637", "ANZ639", "ANZ650", "ANZ652", "ANZ654", "ANZ656", "ANZ658", "ANZ680", "ANZ682", "ANZ684", "ANZ686", "ANZ688"
@@ -76,7 +76,7 @@
       "LEZ144", "LEZ145", "LEZ164", "LEZ165"
     ],
     "KEC63": [
-      "LCZ422", "LHZ361", "LHZ362", "LHZ363", "LHZ421", "LHZ422"
+      "LCZ422", "LCZ460", "LEZ162", "LEZ444"
     ],
     "WWF36": [
       "LMZ844", "LMZ845", "LMZ846", "LMZ878", "LMZ876", "LMZ874"
