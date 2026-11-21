@@ -1016,6 +1016,14 @@
     "longitude": -90.05178
   },
   {
+    "callsign": "KIG79",
+    "info": "Listen",
+    "stream_url": "https://wxradio.org/TN-Nashville-KIG79",
+    "location": "Nashville, TN",
+    "latitude": 36.1606,
+    "longitude": -86.7741
+  },
+  {
     "callsign": "WXK63",
     "info": "Listen",
     "stream_url": "https://radio.weatherusa.net/NWR/WXK63.mp3",
