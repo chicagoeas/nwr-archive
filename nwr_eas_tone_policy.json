@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "description": "Specifically for transmitters managed by each office. N/A means no codes are supported.",
+  "description": "Specifically for transmitters managed by each office. N/A means no codes are supported. (1200Z-0400Z) added on shows the LOCAL STANDARD TIME that the product is tone alerted.",
   "source_url": "https://www.weather.gov/source/datamgmt/xr08_CCCC_ID_List.html",
   "default_codes": [
     "HWW",
