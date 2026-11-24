@@ -26,13 +26,6 @@
       "BZW"
     ],
     "ABR": [
-      "HWW",
-      "HWA",
-      "FLW",
-      "FLA",
-      "FFA",
-      "WSW",
-      "WSA",
       "BZW"
     ],
     "AFC": [
@@ -174,16 +167,13 @@
       "BZW"
     ],
     "BOX": [
-      "HWW",
-      "HWA",
+      "HWW(0300Z-1200Z)",
       "FLW",
-      "CFW",
-      "CFA",
+      "CFW(0300Z-1200Z)",
       "FLA",
       "FFA",
-      "WSW",
-      "WSA",
-      "BZW"
+      "WSW(0300Z-1200Z)",
+      "BZW(0300Z-1200Z)"
     ],
     "BRO": [
       "HWW",
@@ -262,14 +252,14 @@
       "BZW"
     ],
     "CLE": [
-      "HWW",
-      "HWA",
+      "HWW(1200Z-0500Z)",
+      "HWA(1200Z-0500Z)",
       "FLW",
-      "FLA",
-      "FFA",
-      "WSW",
-      "WSA",
-      "BZW"
+      "FLA(1200Z-0500Z)",
+      "FFA(1200Z-0500Z)",
+      "WSW(1200Z-0500Z)",
+      "WSA(1200Z-0500Z)",
+      "BZW(1200Z-0500Z)"
     ],
     "CRP": [
       "HWW",
@@ -284,14 +274,12 @@
       "BZW"
     ],
     "CTP": [
-      "HWW",
-      "HWA",
+      "HWW(1200Z-0500Z)",
       "FLW",
-      "FLA",
+      "FLA(1200Z-0500Z)",
       "FFA",
-      "WSW",
-      "WSA",
-      "BZW"
+      "WSW(1200Z-0500Z)",
+      "BZW(1200Z-0500Z)"
     ],
     "CYS": [
       "HWW",
@@ -491,23 +479,14 @@
       "BZW"
     ],
     "GRR": [
-      "HWW",
-      "HWA",
-      "FLW",
-      "FLA",
-      "FFA",
-      "WSW",
-      "WSA",
       "BZW"
     ],
     "GSP": [
-      "HWW",
-      "HWA",
-      "FLW",
+      "HWW(1200Z-0400Z)",
+      "FLW(1200Z-0400Z)",
       "FLA",
       "FFA",
-      "WSW",
-      "WSA",
+      "WSW(1200Z-0400Z)",
       "BZW"
     ],
     "GUM": [
@@ -569,13 +548,9 @@
       "BZW"
     ],
     "HUN": [
-      "HWW",
-      "HWA",
-      "FLW",
       "FLA",
       "FFA",
       "WSW",
-      "WSA",
       "BZW"
     ],
     "ICT": [
@@ -602,12 +577,9 @@
     ],
     "ILN": [
       "HWW",
-      "HWA",
       "FLW",
-      "FLA",
       "FFA",
       "WSW",
-      "WSA",
       "BZW"
     ],
     "ILX": [
@@ -621,14 +593,14 @@
       "BZW"
     ],
     "IND": [
-      "HWW",
+      "HWW(1200Z-0405Z)",
       "HWA",
       "FLW",
       "FLA",
       "FFA",
-      "WSW",
+      "WSW(1200Z-0405Z)",
       "WSA",
-      "BZW"
+      "BZW(1200Z-0405Z)"
     ],
     "IWX": [
       "HWW",
@@ -771,14 +743,11 @@
     ],
     "LWX": [
       "HWW",
-      "HWA",
       "FLW",
       "CFW",
-      "CFA",
       "FLA",
       "FFA",
       "WSW",
-      "WSA",
       "BZW"
     ],
     "LZK": [
@@ -792,13 +761,6 @@
       "BZW"
     ],
     "MAF": [
-      "HWW",
-      "HWA",
-      "FLW",
-      "FLA",
-      "FFA",
-      "WSW",
-      "WSA",
       "BZW"
     ],
     "MEG": [
@@ -999,14 +961,11 @@
     ],
     "PHI": [
       "HWW",
-      "HWA",
       "FLW",
       "CFW",
       "CFA",
       "FLA",
       "FFA",
-      "WSW",
-      "WSA",
       "BZW"
     ],
     "PIH": [
