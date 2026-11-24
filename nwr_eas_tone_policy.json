@@ -3,6 +3,8 @@
   "description": "Specifically for transmitters managed by each office. N/A means no codes are supported. (1200Z-0400Z) added on shows the LOCAL STANDARD TIME that the product is tone alerted.",
   "source_url": "https://www.weather.gov/source/datamgmt/xr08_CCCC_ID_List.html",
   "default_codes": [
+    "AVA",
+    "AVW",
     "HWW",
     "HWA",
     "FLW",
@@ -12,10 +14,13 @@
     "FFA",
     "WSW",
     "WSA",
+    "SQW",
     "BZW"
   ],
   "offices": {
     "ABQ": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -23,12 +28,18 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "ABR": [
+      "AVA",
+      "AVW",
+      "SQW",
       "BZW"
     ],
     "AFC": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -38,9 +49,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "AFG": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -50,9 +64,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "AJK": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -62,9 +79,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "AKQ": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -74,9 +94,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "ALY": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -84,9 +107,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "AMA": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -94,9 +120,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "APX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -104,9 +133,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "ARX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -114,9 +146,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BGM": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -124,9 +159,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BIS": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -134,9 +172,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BMX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -144,9 +185,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BOI": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -154,9 +198,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BOU": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -164,18 +211,24 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BOX": [
+      "AVA",
+      "AVW",
       "HWW(0300Z-1200Z)",
       "FLW",
       "CFW(0300Z-1200Z)",
       "FLA",
       "FFA",
       "WSW(0300Z-1200Z)",
-      "BZW(0300Z-1200Z)"
+      "BZW(0300Z-1200Z)",
+      "SQW"
     ],
     "BRO": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -185,9 +238,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BTV": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -195,9 +251,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BUF": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -205,9 +264,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "BYZ": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -215,9 +277,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "CAE": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -225,9 +290,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "CAR": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -237,9 +305,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "CHS": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -249,9 +320,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "CLE": [
+      "AVA",
+      "AVW",
       "HWW(1200Z-0500Z)",
       "HWA(1200Z-0500Z)",
       "FLW",
@@ -259,9 +333,12 @@
       "FFA(1200Z-0500Z)",
       "WSW(1200Z-0500Z)",
       "WSA(1200Z-0500Z)",
-      "BZW(1200Z-0500Z)"
+      "BZW(1200Z-0500Z)",
+      "SQW"
     ],
     "CRP": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -271,17 +348,23 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "CTP": [
+      "AVA",
+      "AVW",
       "HWW(1200Z-0500Z)",
       "FLW",
       "FLA(1200Z-0500Z)",
       "FFA",
       "WSW(1200Z-0500Z)",
-      "BZW(1200Z-0500Z)"
+      "BZW(1200Z-0500Z)",
+      "SQW"
     ],
     "CYS": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -289,9 +372,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "DDC": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -299,9 +385,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "DLH": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -309,9 +398,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "DMX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -319,9 +411,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "DTX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -329,9 +424,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "DVN": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -339,18 +437,24 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "EAX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLA",
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "EKA": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -360,9 +464,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "EPZ": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -370,9 +477,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "EWX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -380,9 +490,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "FFC": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -390,9 +503,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "FGF": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -400,18 +516,24 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "FGZ": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLA",
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "FSD": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -419,9 +541,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "FWD": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -429,9 +554,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "GGW": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -439,9 +567,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "GID": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -449,16 +580,22 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "GJT": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLA",
       "FFA",
+      "SQW",
       "BZW"
     ],
     "GLD": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -466,9 +603,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "GRB": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -476,20 +616,29 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "GRR": [
+      "AVA",
+      "AVW",
+      "SQW",
       "BZW"
     ],
     "GSP": [
+      "AVA",
+      "AVW",
       "HWW(1200Z-0400Z)",
       "FLW(1200Z-0400Z)",
       "FLA",
       "FFA",
       "WSW(1200Z-0400Z)",
+      "SQW",
       "BZW"
     ],
     "GUM": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -499,9 +648,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "GYX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -511,9 +663,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "HFO": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -523,9 +678,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "HGX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -535,9 +693,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "HNX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -545,15 +706,21 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "HUN": [
+      "AVA",
+      "AVW",
       "FLA",
       "FFA",
       "WSW",
+      "SQW",
       "BZW"
     ],
     "ICT": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -561,9 +728,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "ILM": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -573,16 +743,22 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "ILN": [
+      "AVA",
+      "AVW",
       "HWW",
       "FLW",
       "FFA",
       "WSW",
+      "SQW",
       "BZW"
     ],
     "ILX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -590,9 +766,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "IND": [
+      "AVA",
+      "AVW",
       "HWW(1200Z-0405Z)",
       "HWA",
       "FLW",
@@ -600,9 +779,12 @@
       "FFA",
       "WSW(1200Z-0405Z)",
       "WSA",
-      "BZW(1200Z-0405Z)"
+      "BZW(1200Z-0405Z)",
+      "SQW"
     ],
     "IWX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -610,9 +792,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "JAN": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -620,9 +805,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "JAX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -630,9 +818,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "JKL": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -640,9 +831,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "KEY": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -652,9 +846,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LBF": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -662,9 +859,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LCH": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -674,9 +874,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LIX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -686,9 +889,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LKN": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -696,9 +902,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LMK": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -706,12 +915,18 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LOT": [
+      "AVA",
+      "AVW",
+      "SQW",
       "BZW"
     ],
     "LOX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -719,9 +934,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LSX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -729,9 +947,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LUB": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -739,18 +960,24 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "LWX": [
+      "AVA",
+      "AVW",
       "HWW",
       "FLW",
       "CFW",
       "FLA",
       "FFA",
       "WSW",
+      "SQW",
       "BZW"
     ],
     "LZK": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -758,12 +985,18 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MAF": [
+      "AVA",
+      "AVW",
+      "SQW",
       "BZW"
     ],
     "MEG": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -771,9 +1004,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MFL": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -782,9 +1018,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MFR": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -794,9 +1033,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MHX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -805,12 +1047,17 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MKX": [
-      "N/A"
+      "AVA",
+      "AVW",
+      "SQW"
     ],
     "MLB": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -820,9 +1067,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MOB": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -832,9 +1082,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MPX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -842,9 +1095,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MQT": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -852,9 +1108,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MRX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -862,9 +1121,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MSO": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -872,14 +1134,20 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "MTR": [
+      "AVA",
+      "AVW",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "OAX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -887,9 +1155,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "OHX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -897,9 +1168,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "OKX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -909,9 +1183,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "OTX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -919,9 +1196,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "OUN": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -929,9 +1209,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "PAH": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -939,17 +1222,23 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "PBZ": [
+      "AVA",
+      "AVW",
       "HWW",
       "FLW",
       "FLA",
       "FFA",
       "WSW",
+      "SQW",
       "BZW"
     ],
     "PDT": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -957,18 +1246,24 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "PHI": [
+      "AVA",
+      "AVW",
       "HWW",
       "FLW",
       "CFW",
       "CFA",
       "FLA",
       "FFA",
+      "SQW",
       "BZW"
     ],
     "PIH": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -976,9 +1271,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "PQR": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -988,9 +1286,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "PSR": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -998,9 +1299,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "PUB": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1008,9 +1312,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "RAH": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1018,9 +1325,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "REV": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1028,9 +1338,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "RIW": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1038,9 +1351,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "RLX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1048,9 +1364,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "RNK": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1058,9 +1377,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "SEW": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1070,9 +1392,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "SGF": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1080,9 +1405,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "SGX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1092,9 +1420,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "SHV": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1102,9 +1433,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "SJT": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1112,9 +1446,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "SJU": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1124,9 +1461,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "SLC": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1134,9 +1474,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "STO": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1144,9 +1487,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "TAE": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1156,9 +1502,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "TBW": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1168,9 +1517,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "TFX": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1178,18 +1530,24 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "TOP": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLA",
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "TSA": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1197,18 +1555,24 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "TWC": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLA",
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "UNR": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1216,9 +1580,12 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ],
     "VEF": [
+      "AVA",
+      "AVW",
       "HWW",
       "HWA",
       "FLW",
@@ -1226,6 +1593,7 @@
       "FFA",
       "WSW",
       "WSA",
+      "SQW",
       "BZW"
     ]
   }
