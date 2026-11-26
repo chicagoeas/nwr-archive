@@ -152,15 +152,13 @@
     "BGM": [
       "AVA",
       "AVW",
-      "HWW",
-      "HWA",
+      "HWW(0300Z-1200Z)",
       "FLW",
       "FLA",
       "FFA",
-      "WSW",
-      "WSA",
+      "WSW(0300Z-1200Z)",
       "SQW",
-      "BZW"
+      "BZW(0300Z-1200Z)",
     ],
     "BIS": [
       "AVA",
