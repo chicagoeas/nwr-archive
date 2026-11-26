@@ -18,6 +18,14 @@
       "managing_wfo_codes_any": ["MLB"],
       "event_codes_any": ["FLW", "FLA"],
       "skip_vtec_phenomena": ["FL"]
+    },
+    {
+      "_comment": "NWS Newport tones areal Flood Warnings/Watches (VTEC FA, plus FF flash flood watches) but not river Flood Warnings/Watches (VTEC FL). Applies to transmitters whose managing WFO is listed.",
+      "name": "NWS Newport — areal floods only, no river floods",
+      "enabled": true,
+      "managing_wfo_codes_any": ["MHX"],
+      "event_codes_any": ["FLW", "FLA"],
+      "skip_vtec_phenomena": ["FL"]
     }
   ],
   "rules": [
