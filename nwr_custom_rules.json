@@ -12,6 +12,14 @@
   ],
   "tone_exclusions": [
     {
+      "_comment": "NWS Mt Holly tones river Flood Warnings (VTEC FL) but not areal Flood Warnings (VTEC FA). Applies to transmitters whose managing WFO is listed.",
+      "name": "NWS Mt Holly — river floods only, no areal floods",
+      "enabled": true,
+      "managing_wfo_codes_any": ["PHI"],
+      "event_codes_any": ["FLW"],
+      "skip_vtec_phenomena": ["FA"]
+    },
+    {
       "_comment": "NWS Melbourne tones areal Flood Warnings/Watches (VTEC FA, plus FF flash flood watches) but not river Flood Warnings/Watches (VTEC FL). Applies to transmitters whose managing WFO is listed.",
       "name": "NWS Melbourne — areal floods only, no river floods",
       "enabled": true,
